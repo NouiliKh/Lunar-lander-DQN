@@ -1,0 +1,6 @@
+pandas
+gym
+keras
+numpy
+tensorflow
+termcolor
